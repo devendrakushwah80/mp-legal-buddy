@@ -194,7 +194,7 @@ const Help = () => {
                 <p className="text-sm text-muted-foreground mb-4">
                   For urgent legal matters requiring immediate attention.
                 </p>
-                <Button className="w-full bg-red-600 hover:bg-red-700 text-white">
+                <Button className="w-full bg-destructive hover:bg-destructive/90 text-destructive-foreground">
                   Emergency Support
                 </Button>
               </CardContent>
